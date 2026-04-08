@@ -1,4 +1,4 @@
-# Welcome I'm Mardiya and this's my Digital Marketing Journey👋![Uploading StandingOvationGIF.gif…]()
+# Welcome I'm Mardiya and this's my Digital Marketing Journey👋
 
 Hello I'm Maridiya
 Welcome to the Digital Marketing Journey! This repository is dedicated to all the essential modules you need to master digital marketing. Below you will find a structured overview of each module, tools and skills acquired, and hands-on projects designed to enhance your learning experience.
